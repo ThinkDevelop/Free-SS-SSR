@@ -2,47 +2,35 @@
 
 免费的SS账号、SSR账号，定期更新
 
-最新更新日期：2019-01-25 11:21:01 
+最新更新日期：2019-01-25 12:21:03 
 
 ### SS账号
 
 |账号|端口|加密方式|密码|更新时间|国家|
 |:-----:|-----:|:----:|:----:|:----:|:----:|
-|139.162.48.227|17639|aes-256-cfb|f55.fun-60097603|11:17:06|SG|
-|46.29.162.46|1026|rc4-md5|91vpn.cf|11:17:14|RU|
-|45.76.106.224|32010|chacha20|http://gggg.rocks|11:17:12|JP|
-|52.79.241.242|32010|chacha20|http://gggg.rocks|11:17:18|KR|
-|52.78.0.4|32010|chacha20|http://gggg.rocks|11:17:12|KR|
-|128.199.154.243|18818|aes-256-cfb|ss8.pm-62645828|11:17:06|SG|
-|68.183.173.127|15013|aes-256-cfb|ssx.re-83662491|11:17:05|US|
-|128.199.97.239|12599|aes-256-cfb|isx.yt-94215821|11:17:06|SG|
-|107.170.199.84|13928|aes-256-cfb|isx.yt-68314202|11:17:04|US|
-|213.183.48.10|12375|rc4-md5|ss8.pm-39797296|11:17:05|RU|
-|185.173.92.181|443|rc4-md5|sssru.icu|11:17:18|RU|
-|45.76.186.63|4321|aes-256-cfb|www.darrenliuwei.com|11:17:14|SG|
-|107.170.253.137|14236|aes-256-cfb|isx.yt-73641928|11:17:04|US|
-|178.128.99.63|17280|aes-256-cfb|ssx.re-79529800|11:17:06|SG|
-|139.162.56.87|13017|aes-256-cfb|f55.fun-50304722|11:17:06|SG|
-|103.122.23.10|8088|aes-128-ctr|JUXIANGE|11:17:08|US|
-|162.243.146.10|16977|aes-256-cfb|isx.yt-37553897|11:17:04|US|
-|54.169.87.230|30994|chacha20|asd85973|11:17:12|SG|
-|95.179.210.194|3121|aes-256-cfb|www.sphard.com|11:17:12|FR|
-|159.65.142.204|13766|aes-256-cfb|isx.yt-27565741|11:17:06|SG|
-|178.128.115.116|14887|aes-256-cfb|isx.yt-58013639|11:17:06|SG|
-|107.170.198.214|10775|aes-256-cfb|ss8.pm-31876522|11:17:04|US|
-|107.170.251.113|18812|aes-256-cfb|ssx.re-90132120|11:17:05|US|
-|185.134.21.41|11135|aes-256-cfb|edgkeb|11:17:12|GB|
-|35.166.99.139|32010|chacha20|http://gggg.rocks|11:17:12|US|
-|13.251.81.164|32010|chacha20|http://gggg.rocks|11:17:20|SG|
-|46.17.43.2|22100|aes-256-gcm|wGQ4vA7D|10:52:17|RU|
-|13.251.38.209|32010|chacha20|http://gggg.rocks|11:17:06|SG|
-|97.107.135.189|15479|aes-256-cfb|f55.fun-14832229|11:17:04|US|
+|46.17.43.2|22100|aes-256-gcm|wGQ4vA7D|12:17:13|RU|
+|45.76.186.63|4321|aes-256-cfb|www.darrenliuwei.com|12:17:14|SG|
+|45.76.124.108|1144|aes-256-cfb|www.darrenliuwei.com|12:17:06|AU|
+|52.79.241.242|32010|chacha20|http://gggg.rocks|12:17:18|KR|
+|185.173.92.181|443|rc4-md5|sssru.icu|12:17:16|RU|
+|46.29.162.46|1026|rc4-md5|91vpn.cf|12:17:24|RU|
+|52.78.0.4|32010|chacha20|http://gggg.rocks|12:17:13|KR|
+|35.166.99.139|32010|chacha20|http://gggg.rocks|12:17:14|US|
+|45.76.106.224|32010|chacha20|http://gggg.rocks|12:17:13|JP|
+|185.134.21.41|11135|aes-256-cfb|edgkeb|12:17:13|GB|
+|95.179.210.194|3121|aes-256-cfb|www.sphard.com|12:17:13|FR|
+|54.169.87.230|30994|chacha20|asd85973|12:17:13|SG|
+|103.122.23.10|8088|aes-128-ctr|JUXIANGE|12:17:12|US|
+|13.251.38.209|32010|chacha20|http://gggg.rocks|12:17:16|SG|
 
 
 ### SSR账号
 
-抱歉，暂无账号
-
+|#|ssr连接|
+|:-----|:-----|
+|1|ssr://MTAzLjEyMi4yMy4xMDo4MDg4Om9yaWdpbjphZXMtMTI4LWN0cjpwbGFpbjpTbFZZU1VGT1IwVS8_cmVtYXJrcz1VMU5TVkU5UFRGOU9iMlJsT3VTNm11V2txdVdjc09XTXVpQSZncm91cD1WMWRYTGxOVFVsTlVUMDlNTGtOUFRR|
+|2|ssr://MjA3LjI0Ni45OS4xMjg6NDQzOm9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpTbWxoZVc5MU1USXovP3JlbWFya3M9VTFOU1ZFOVBURjlPYjJSbE91ZS1qdVdidlNEbGlxRGxpS25ucG9fbHNMemt1cHJsdDU3bXRKdm1uWW5ubjdaMmRXeDBjdWFWc09hTnJ1UzRyZVdfZ3cmZ3JvdXA9VjFkWExsTlRVbE5VVDA5TUxrTlBUUQ|
+|3|ssr://MTU3LjIzMC4xNTkuOTM6MTk5OmF1dGhfYWVzMTI4X21kNTphZXMtMTI4LWN0cjpwbGFpbjpORE01TkRNNE5EVS8_cmVtYXJrcz1VMU5TVkU5UFRGOU9iMlJsT3VlLWp1V2J2U0EmZ3JvdXA9VjFkWExsTlRVbE5VVDA5TUxrTlBUUQ|
 
 
 > 若本项目对您有所帮助，欢迎Star
