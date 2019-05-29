@@ -4,6 +4,8 @@
 
 历史提交中的很多账号仍然能够使用，大家也可以继续查找使用
 
+如有任何问题，欢迎在issues中交流
+
 ### SS账号
 > [SS账号](https://www.youneed.win/free-ss)
 
