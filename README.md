@@ -10,4 +10,4 @@
 ### SSR账号
 > [SSR账号](https://www.youneed.win/free-ssr)
 
-> [若本项目对您有所帮助，欢迎Star](https://github.com/dxxzst/Free-SS-SSR)
+[若本项目对您有所帮助，欢迎Star](https://github.com/dxxzst/Free-SS-SSR)
