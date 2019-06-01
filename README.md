@@ -6,11 +6,9 @@
 
 如有任何问题，欢迎在issues中交流
 
-### :palm_tree: SS账号
-> [SS账号](https://www.youneed.win/free-ss)
+### :palm_tree: [SS账号](https://www.youneed.win/free-ss)
 
-### :deciduous_tree: SSR账号
-> [SSR账号](https://www.youneed.win/free-ssr)
+### :deciduous_tree: [SSR账号](https://www.youneed.win/free-ssr)
 
 所有账号均来自互联网，非盈利目的，仅供大家交流学习使用，请勿用于非法用途:sos:。
 
