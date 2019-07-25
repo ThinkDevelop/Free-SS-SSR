@@ -23,6 +23,6 @@
 
 ### :deciduous_tree: [SSR账号](https://flywind.ml//free-ssr)
 
-主域名[www.youneed.win](https://www.youneed.win)不会变更，临时域名和谐后会及时更新。
+主域名[www.youneed.win](https://www.youneed.win)不会变更，大家可以书签收藏。临时域名和谐后会及时更新。
 
 [若本项目对您有所帮助，欢迎Star](https://github.com/dxxzst/Free-SS-SSR)
