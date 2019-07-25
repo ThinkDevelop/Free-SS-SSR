@@ -17,7 +17,7 @@
 ------
 **2019.07.25更新**
 
-很不幸，原来的域名[www.youneed.win](https://www.youneed.win) 被和谐，因此启用了临时域名：
+很不幸，原来的域名[www.youneed.win](https://www.youneed.win)被和谐，因此启用了临时域名：
 
 ### :palm_tree: [SS账号](https://flywind.ml//free-ss)
 
