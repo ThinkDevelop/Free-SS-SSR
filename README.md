@@ -15,12 +15,14 @@
 服务器有点垃圾，偶尔不能访问时，可以提issue或发邮件:email:。
 
 ------
-## 2019.07.25更新
+** 2019.07.25更新 **
 
 很不幸，原来的域名[www.youneed.win](https://www.youneed.win) 被和谐，因此启用了临时域名：
 
 ### :palm_tree: [SS账号](https://flywind.ml//free-ss)
 
 ### :deciduous_tree: [SSR账号](https://flywind.ml//free-ssr)
+
+希望大家低调使用
 
 [若本项目对您有所帮助，欢迎Star](https://github.com/dxxzst/Free-SS-SSR)
