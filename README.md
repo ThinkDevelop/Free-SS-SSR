@@ -10,7 +10,8 @@
 
 #### Docker版SS客户端
 
-Dockerfile在[Dockerfile](Dockerfile)
+Dockerfile在[Dockerfile](Dockerfile)。
+
 运行指令
 ```
 docker build -t youneed-ss .
