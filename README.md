@@ -32,4 +32,4 @@
 > * 进入命令行(win+R 输入cmd回车)，执行：ipconfig /flushdns
 > * 重新刷新页面即可,如失效请还原host并用代理访问
 
-:star: :star: :star: [若本项目对您有所帮助，欢迎Star](https://github.com/dxxzst/Free-SS-SSR) :star: :star: :star:
+[若本项目对您有所帮助，欢迎Star](https://github.com/dxxzst/Free-SS-SSR)
