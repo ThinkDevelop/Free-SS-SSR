@@ -25,11 +25,11 @@
 
 ### :deciduous_tree: [SSR账号](https://flywind.ml//free-ssr)
 
-### :继续访问主域名[www.youneed.win](https://www.youneed.win)方法
+### :heavy_check_mark: 继续访问主域名[www.youneed.win](https://www.youneed.win)方法
 
 > * 目录：C:/Windows/System32/drivers/etc，用记事本打开host文件
 > * 在最后一行添加(注意空格)并保存：104.31.74.55 youneed.win
 > * 进入命令行(win+R 输入cmd回车)，执行：ipconfig /flushdns
 > * 重新刷新页面即可,如失效请还原host并用代理访问
 
-[若本项目对您有所帮助，欢迎Star](https://github.com/dxxzst/Free-SS-SSR)
+:star: :star: :star: [若本项目对您有所帮助，欢迎Star](https://github.com/dxxzst/Free-SS-SSR) :star: :star: :star:
