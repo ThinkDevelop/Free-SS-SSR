@@ -21,7 +21,7 @@
 ------
 **2019.09.23更新**
 
-主域名[www.youneed.win](https://www.youneed.win)被和谐，~~启用了临时域名[flywind.ml](https://flywind.ml)--河蟹。~~
+主域名[www.youneed.win](https://www.youneed.win)被和谐，~~启用了临时域名[flywind.ml](https://flywind.ml)（河蟹too）。~~
 
 ### :heavy_check_mark: 继续访问主域名[www.youneed.win](https://www.youneed.win)方法
 
