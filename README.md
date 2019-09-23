@@ -31,6 +31,10 @@
 > * 进入命令行(win+R 输入cmd回车)，执行：ipconfig /flushdns
 > * 重新刷新页面即可,如失效请还原host并用代理访问
 
+最终如图：
+
+![host文件](https://raw.githubusercontent.com/dxxzst/Free-SS-SSR/master/20190823174906.png)
+
 （也可以用DNS-Over-HTTPS加ESNI。[Firefox浏览器设置方法](https://blog.mozilla.org/security/2018/10/18/encrypted-sni-comes-to-firefox-nightly/)）
 
 [若本项目对您有所帮助，欢迎Star](https://github.com/dxxzst/Free-SS-SSR)
