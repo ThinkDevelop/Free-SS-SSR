@@ -35,6 +35,6 @@
 
 ![host文件](https://raw.githubusercontent.com/dxxzst/Free-SS-SSR/master/20190823174906.png)
 
-（也可以用DNS-Over-HTTPS加ESNI。[Firefox浏览器设置方法](https://blog.mozilla.org/security/2018/10/18/encrypted-sni-comes-to-firefox-nightly/)）
+也可以用DNS-Over-HTTPS加ESNI。[Firefox浏览器设置方法](参考：https://www.cccitu.com/3913.html)
 
 [若本项目对您有所帮助，欢迎Star](https://github.com/dxxzst/Free-SS-SSR)
