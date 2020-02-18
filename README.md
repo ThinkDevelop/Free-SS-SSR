@@ -14,6 +14,8 @@
 
 ### :deciduous_tree: [SSR账号](https://www.youneed.win/free-ssr)
 
+### :palm_tree: [V2Ray账号](https://www.youneed.win/free-v2ray)
+
 所有账号均来自互联网，非盈利目的，仅供大家交流学习使用，请勿用于非法用途:sos:。
 
 服务器有点垃圾，偶尔不能访问时，可以提issue或发邮件:email:。
@@ -21,7 +23,7 @@
 ------
 **2019.09.23更新**
 
-主域名[www.youneed.win](https://www.youneed.win)被和谐，~~启用了临时域名[flywind.ml](https://flywind.ml)（河蟹too）。~~
+主域名[www.youneed.win](https://www.youneed.win)被和谐。
 
 ### :heavy_check_mark: 继续访问主域名[www.youneed.win](https://www.youneed.win)方法
 
