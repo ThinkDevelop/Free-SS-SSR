@@ -37,6 +37,27 @@
 
 ![host文件](https://raw.githubusercontent.com/dxxzst/Free-SS-SSR/master/20190823174906.png)
 
+------
+**2020.06.14更新**
+如果以上host修改后，仍然访问较慢或者无访问，可以在以下网段自选IP：
+
+通移动推荐节点：
+
+104.23.240.0-104.23.243.254
+
+电信推荐节点：
+
+162.159.208.4-162.159.208.103
+
+162.159.209.4-162.159.209.103
+
+162.159.210.4-162.159.210.103
+
+162.159.211.4-162.159.211.103
+
+
+
+
 也可以用火狐浏览器并启用DNS-Over-HTTPS。[设置方法参考](https://www.cccitu.com/3913.html)
 
 或者Android Pie及以上版本启用DNS-Over-TLS。[设置方法参考](https://developers.cloudflare.com/1.1.1.1/setting-up-1.1.1.1/android/)
